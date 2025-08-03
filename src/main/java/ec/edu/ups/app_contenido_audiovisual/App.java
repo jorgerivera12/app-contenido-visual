@@ -7,6 +7,9 @@ import ec.edu.ups.app_contenido_audiovisual.vista.Consola;
  * 
  * Este es el punto de entrada (main) que inicializa la vista en consola
  * y lanza el menú de interacción con el usuario.
+ * 
+ * @author Jorge
+ * @version 1.0
  */
 public class App {
     
