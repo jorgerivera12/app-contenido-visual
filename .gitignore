@@ -1,0 +1,37 @@
+# Archivos y carpetas de Maven
+target/
+.mvn/
+
+# Dependencias locales
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de IDEs
+*.classpath
+*.project
+*.settings/
+.idea/
+*.iml
+.vscode/
+
+# Archivos del sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos generados por PlantUML u otras herramientas
+*.puml
+*.uml
+
+# Archivos de test o de datos locales
+src/test/resources/*.csv
+
+# Archivos ocultos de Maven y cache
+.m2/
+
+# Archivos de credenciales o configuración personalizada
+*.properties
+*.env
