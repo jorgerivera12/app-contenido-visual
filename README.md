@@ -32,6 +32,15 @@ app-contenido-audiovisual/
 
 ---
 
+## 🖼️ Diagrama UML  
+
+![Diagrama UML](docs/uml-diagram.png)
+
+## 📸 Captura del proyecto  
+
+### Código compilado y en ejecución
+![Proyecto ejecutándose](docs/captura-ejecucion.png)
+
 ## 📝 Cambios realizados
 
 1. **Soporte de IDs en contenidos y relaciones**
